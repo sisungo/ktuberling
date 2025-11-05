@@ -1,3 +1,9 @@
+ktuberling (4:21.08.0-1deepin1) unstable; urgency=medium
+
+  * fix: adapt to new system KF5KDEGames version
+
+ -- sisungo <sisungo@icloud.com>  Wed, 5 Nov 2025 19:03:28 +0800
+
 ktuberling (4:21.08.0-1) unstable; urgency=medium
 
   [ Norbert Preining ]
